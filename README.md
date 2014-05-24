@@ -1,4 +1,4 @@
-hb-raw
+hb-bootstrap
 ======
 
-Harp Boilerplate Raw
+Harp Boilerplate + HTML5Boilerplate + Bootstrap 3
